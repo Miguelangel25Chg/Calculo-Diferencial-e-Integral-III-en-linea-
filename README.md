@@ -1,6 +1,6 @@
 <div align="center">
   <h1>📘 Cálculo Diferencial e Integral III - Material de apoyo para la licenciatura de Actuaría </h1>
-  <p>Apuntes completos, ejercicios resueltos y exámenes del curso universitario</p>
+  <p>Apuntes completos, ejercicios y exámenes del curso universitario</p>
 
   <img src="https://img.shields.io/badge/Autor-Miguel%20%C3%81ngel%20Ch%C3%A1vez%20Garc%C3%ADa-blue?style=flat-square&logo=github" alt="Autor">
   <img src="https://img.shields.io/badge/Nivel-Universitario-success?style=flat-square" alt="Nivel">
