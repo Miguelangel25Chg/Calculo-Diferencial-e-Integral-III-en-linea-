@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📘 Cálculo Diferencial e Integral III - Material para Actuaría en línea</h1>
+  <h1>📘 Cálculo Diferencial e Integral III - Material de apoyo para la licenciatura de Actuaría </h1>
   <p>Apuntes completos, ejercicios resueltos y exámenes del curso universitario</p>
 
   <img src="https://img.shields.io/badge/Autor-Miguel%20%C3%81ngel%20Ch%C3%A1vez%20Garc%C3%ADa-blue?style=flat-square&logo=github" alt="Autor">
@@ -10,13 +10,11 @@
 
 ## Autoría y Contexto
 **Creado por:** Miguel Ángel Chávez García (@Miguelangel25Chg)  
-Este material lo elaboré originalmente para el curso de **Cálculo Diferencial e Integral III** en el proyecto de **Actuaria en línea** (SUAyED o equivalente). Aunque ya no estoy en el equipo del proyecto, lo publico abiertamente para que estudiantes, compañeros y cualquiera que lo necesite pueda usarlo para estudiar y repasar.  
+Este material lo elaboré para el curso de **Cálculo Diferencial e Integral III** 
+No lucrar con el presente repositorio.
+## ¿Qué contiene este repositorio? 🔥
 
-Eres libre de descargarlo, compartirlo con amigos o imprimirlo, siempre y cuando respetes la licencia abajo. ¡Tú eres el autor original!
-
-## ¿Qué contiene este repo? 🔥
-
-Material completo del curso **Cálculo Diferencial e Integral III** (nivel universitario / actuaria / ingeniería):
+Material completo del curso **Cálculo Diferencial e Integral III** (nivel universitario / actuaria / matemáticas):
 
 - 📚 **Apuntes por capítulos**  
   CHAVEZ_CIII_cap1.pdf hasta cap6.pdf
