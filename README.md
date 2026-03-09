@@ -1,5 +1,5 @@
 <div align="center">
-  <h1>📘 Cálculo Diferencial e Integral III - Material para Actuaria en línea</h1>
+  <h1>📘 Cálculo Diferencial e Integral III - Material para Actuaría en línea</h1>
   <p>Apuntes completos, ejercicios resueltos y exámenes del curso universitario</p>
 
   <img src="https://img.shields.io/badge/Autor-Miguel%20%C3%81ngel%20Ch%C3%A1vez%20Garc%C3%ADa-blue?style=flat-square&logo=github" alt="Autor">
@@ -10,13 +10,13 @@
 
 ## Autoría y Contexto
 **Creado por:** Miguel Ángel Chávez García (@Miguelangel25Chg)  
-Este material fue elaborado originalmente por mí para el curso de **Cálculo Diferencial e Integral III** en el proyecto de **Actuaria en línea** (SUAyED o similar). Aunque ya no formo parte del equipo del proyecto, lo publico públicamente para que sirva a estudiantes, compañeros y cualquiera que lo necesite para estudiar.  
+Este material lo elaboré originalmente para el curso de **Cálculo Diferencial e Integral III** en el proyecto de **Actuaria en línea** (SUAyED o equivalente). Aunque ya no estoy en el equipo del proyecto, lo publico abiertamente para que estudiantes, compañeros y cualquiera que lo necesite pueda usarlo para estudiar y repasar.  
 
-¡Tú eres el autor original y dueño de estos apuntes! Úsalo para aprender, compartir con amigos o imprimir, pero respeta la licencia abajo.
+Eres libre de descargarlo, compartirlo con amigos o imprimirlo, siempre y cuando respetes la licencia abajo. ¡Tú eres el autor original!
 
 ## ¿Qué contiene este repo? 🔥
 
-Material completo del curso **Cálculo Diferencial e Integral III** (nivel universitario / actuaria / ingeniería / física):
+Material completo del curso **Cálculo Diferencial e Integral III** (nivel universitario / actuaria / ingeniería):
 
 - 📚 **Apuntes por capítulos**  
   CHAVEZ_CIII_cap1.pdf hasta cap6.pdf
@@ -29,8 +29,11 @@ Material completo del curso **Cálculo Diferencial e Integral III** (nivel unive
 - 🎁 **Bonus especial**  
   Cap5_Actuaria_en_linea-2.pdf (aplicaciones en actuaria)
 
-## Cómo usarlo (fácil y rápido)
+## Cómo usarlo
+.
 
-1. Descarga todo el repo o clónalo:  
+
+
+1. Clona o descarga el repo:  
    ```bash
    git clone https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-.git
