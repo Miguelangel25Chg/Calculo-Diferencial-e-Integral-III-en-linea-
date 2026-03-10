@@ -23,6 +23,37 @@ Este material lo preparé originalmente para el curso de **Cálculo Diferencial 
 - 📁 **Material por unidad** → Cada carpeta tiene sus ejercicios y examen correspondiente
 
 ## Estructura del repositorio (exacta)
+Sigue el orden de las unidades para estudiar de forma lógica:
 
-## Miguel Ángel Chávez García. Profesor T.C. FES Acatlán, UNAM
+1. **Primera Unidad** – Funciones de varias variables  
+   → [Entrar a Primera unidad](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/tree/main/Primera%20unidad)
+
+2. **Segunda Unidad** – Límites y continuidad en varias variables  
+   → [Entrar a Segunda unidad](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/tree/main/Segunda%20unidad)
+
+3. **Tercera Unidad** – Derivadas parciales y aplicaciones  
+   → [Entrar a Tercera unidad](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/tree/main/Tercera%20unidad)
+
+4. **Cuarta Unidad** – Integrales múltiples  
+   → [Entrar a Cuarta unidad](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/tree/main/Cuarta%20unidad)
+
+5. **Quinta Unidad** – Aplicaciones avanzadas y actuaria  
+   → [Entrar a Quinta unidad](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/tree/main/Quinta%20unidad)
+
+### Material adicional (apuntes generales)
+
+- Apuntes por capítulos:  
+  [CHAVEZ_CIII_cap1.pdf](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/blob/main/CHAVEZ_CIII_cap1.pdf)  
+  [CHAVEZ_CIII_cap2.pdf](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/blob/main/CHAVEZ_CIII_cap2.pdf)  
+  [CHAVEZ_CIII_cap3.pdf](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/blob/main/CHAVEZ_CIII_cap3.pdf)  
+  [CHAVEZ_CIII_cap4.pdf](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/blob/main/CHAVEZ_CIII_cap4.pdf)  
+  [CHAVEZ_CIII_cap5.pdf](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/blob/main/CHAVEZ_CIII_cap5.pdf)  
+  [CHAVEZ_CIII_cap6.pdf](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/blob/main/CHAVEZ_CIII_cap6.pdf)
+
+- Bonus Actuaria:  
+  [Cap5_Actuaria_en_linea-2.pdf](https://github.com/Miguelangel25Chg/Calculo-Diferencial-e-Integral-III-en-linea-/blob/main/Cap5_Actuaria_en_linea-2.pdf)
+
+
+
+### Miguel Ángel Chávez García. Profesor T.C. FES Acatlán, UNAM
 
